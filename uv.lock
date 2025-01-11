@@ -514,7 +514,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "click", specifier = ">=8.1.8" },
-    { name = "openai", specifier = ">=1.59.4" },
+    { name = "openai", specifier = ">=1.59.5" },
     { name = "pangea-sdk", specifier = ">=5.2.1" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
 ]
