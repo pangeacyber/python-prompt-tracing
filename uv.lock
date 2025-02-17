@@ -479,7 +479,7 @@ wheels = [
 
 [[package]]
 name = "pangea-sdk"
-version = "5.4.0"
+version = "5.5.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiohttp" },
@@ -492,9 +492,9 @@ dependencies = [
     { name = "requests-toolbelt" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/88/9f/6022473b9af3e10c35077f6e9d8debe5b1db33895eefd9c3cfcd1752ee87/pangea_sdk-5.4.0.tar.gz", hash = "sha256:647531e07d174741f2e38348a15b0d57621ce0f646ffee6450842b9dc3ef815e", size = 123444 }
+sdist = { url = "https://files.pythonhosted.org/packages/fd/26/92939fe74160fbcfae16bc42f94a3236710525237c53293fdcb52885a0fe/pangea_sdk-5.5.0.tar.gz", hash = "sha256:a2ec0123c4aeb156c0ee78d285c9990b495648de0c3f173f5d7b6df31b44c71b", size = 127560 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a5/f0/a86fdcabe52e9943973044349f8f050d9355ab491e82d2651b2b4d63ba82/pangea_sdk-5.4.0-py3-none-any.whl", hash = "sha256:59aa45e7da639d9c2be00afba2b651a0b6414cc05821404577ea65d85a0d2ff2", size = 150345 },
+    { url = "https://files.pythonhosted.org/packages/1f/08/5c6e5438264ab92958a5180ae36bd9c0dc455771b00bd19ac416928172b0/pangea_sdk-5.5.0-py3-none-any.whl", hash = "sha256:ca4521e4585bfa7725484bb56d42eaeb2e49250d1c35b6147dfae40f6fa335ee", size = 156916 },
 ]
 
 [[package]]
