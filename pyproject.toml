@@ -9,7 +9,7 @@ dependencies = [
     "click>=8.2.1",
     "openai>=1.91.0",
     "pangea-sdk>=6.1.1",
-    "python-dotenv>=1.1.0",
+    "python-dotenv>=1.1.1",
 ]
 
 [tool.uv]
